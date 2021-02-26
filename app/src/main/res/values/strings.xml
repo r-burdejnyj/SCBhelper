@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">SCBhelper</string>
+
+    <string name="img_menu">Меню</string>
+    <string name="rzdlogo">РЖД</string>
+
+    <string name="main_menu">Главное меню</string>
+    <string name="section">Раздел</string>
+    <string name="desc">Описание раздела</string>
+    <string name="ic_menu">Иконка раздела</string>
+    <string name="arrow_img">Стрелка раздела</string>
+
+    <string name="ins">Инструкция</string>
+    <string name="insTitle">Инструкции</string>
+    <string name="insDesc">Описание инструкции</string>
+    <string name="imgPDF">Иконка PDF</string>
+
+    <string name="tnk">Технико-нормировочные карты</string>
+    <string name="tnkTitle">Раздел ТНК</string>
+    <string name="title_tnk">ТНК</string>
+    <string name="description_tnk">Описание ТНК</string>
+
+    <string name="norms">Нормы содержания устройств СЦБ</string>
+    <string name="norm_name">Норма</string>
+    <string name="norm_desc">Описание нормы</string>
+
+    <string name="techniques">Методики поиска отказов</string>
+    <string name="techniques_name">Методика</string>
+    <string name="img_techniques">Иконка методики</string>
+
+    <string name="manuals">Справочники</string>
+    <string name="manuals_name">Название справочника</string>
+    <string name="manuals_desc">Описание справочника</string>
+
+    <string name="ot">Охрана труда</string>
+    <string name="insOt">Инструкция по ОТ</string>
+    <string name="description_insOt">Описание инструкции по ОТ</string>
+
+    <string name="imgview">TODO</string>
+
+    <string name="menu">Меню</string>
+    <string name="section_menu">Раздел меню</string>
+    <string name="description_menu">Описание меню</string>
+    <string name="img">TODO</string>
+
+    <string name="applogo">Лого</string>
+    <string name="about">О приложении</string>
+    <string name="txtCurrentVersion">Версия приложения</string>
+    <string name="CurrentVersion">номер версии</string>
+
+    <string name="feedback">Обратная связь</string>
+    <string name="feedback_send">Отправить сообщение</string>
+    <string name="feedback_text">Введите текст сообщения</string>
+    <string name="sending_email">Отправка сообщения</string>
+    <string name="sending_email_success">Спасибо, ваше сообщение отправлено.</string>
+    <string name="msg_error_sending_email">Ошибка отправки сообщения.</string>
+
+    <string name="feedbacktype">Тип сообщения</string>
+    <string name="feedbacktype1">Предложение</string>
+    <string name="feedbacktype2">Пожелание</string>
+    <string name="feedbacktype3">Отчет об ошибке</string>
+    <string name="todo">TODO</string>
+    <string name="instructions">инструкция</string>
+    <string name="description_ins">описание нструкции</string>
+
+    <string name="update_app">Update App</string>
+    <string name="dialog_update_available_message">Dialog update available message</string>
+    <string name="update_now">Update Now</string>
+    <string name="later">Later</string>
+</resources>
